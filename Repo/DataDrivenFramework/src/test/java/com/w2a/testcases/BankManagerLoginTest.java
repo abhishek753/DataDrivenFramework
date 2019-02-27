@@ -8,7 +8,7 @@ import com.w2a.base.TestBase;
 
 
 
-public class LoginTest extends TestBase{
+public class BankManagerLoginTest extends TestBase{
 	
 	@Test
 	public void loginAsBankManager() {

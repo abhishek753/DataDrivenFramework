@@ -17,6 +17,11 @@ import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeSuite;
 
+
+
+
+
+
 public class TestBase {
 	
 	/*
@@ -37,6 +42,7 @@ public class TestBase {
 	public static Properties OR = new Properties();
 	public static FileInputStream fis;
 	public static Properties prop = new Properties();
+//	public static ExcelReader excel = new ExcelReader();
 	
 	//public static Logger log = Logger.getLogger("devpinoyLogger");
 	
